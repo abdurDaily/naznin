@@ -1,0 +1,22 @@
+/* NAVIGATION START */
+nav{
+    background-color: #FFF;
+}
+nav .icons a{
+    width: 24px;
+    height: 24px;
+    margin: 0 10px;
+}
+/* NAVIGATION END  */
+
+
+
+/* BANNER START */
+#banner{
+    background-image: url(../images/Image\ Here.png);
+    height: 800px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+/* BANNER END */
